@@ -106,9 +106,9 @@ OSPF automatically recalculates the route and switches traffic to the backup pat
 
 | File | Description |
 |---|---|
-| ujianrouting1.rsc | Core Router Configuration |
-| ujianrouting2.rsc | Branch Router 1 Configuration |
-| ujianrouting3.rsc | Branch Router 2 Configuration |
+| routercore.rsc | Core Router Configuration |
+| router1.rsc | Branch Router 1 Configuration |
+| router2.rsc | Branch Router 2 Configuration |
 
 ---
 
